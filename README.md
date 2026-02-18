@@ -176,18 +176,15 @@ This project is open source and available under the [MIT License](LICENSE).
 
 Your Name - [@yourhandle](https://twitter.com/yourhandle)
 
-## 🙏 Acknowledgments
+##  Acknowledgments
 
 - Design inspiration from modern real estate websites
 - Icons using emoji for simplicity and universal support
 - Color scheme inspired by nature and land themes
 
-## 📧 Contact
+##  Contact
 
 For questions or suggestions, please contact:
 - Email: info@landsale.com
 - Phone: +1 (234) 567-890
 
----
-
-**Note**: This is a static website for demonstration purposes. To make it fully functional with a backend, you would need to integrate it with a server-side technology (Node.js, PHP, Python, etc.) and a database (MySQL, MongoDB, etc.).
