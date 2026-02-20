@@ -187,4 +187,3 @@ Your Name - [@yourhandle](https://twitter.com/yourhandle)
 For questions or suggestions, please contact:
 - Email: info@landsale.com
 - Phone: +1 (234) 567-890
-
