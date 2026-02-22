@@ -168,22 +168,8 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 4. Push to the branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
 
-##  License
-
-This project is open source and available under the [MIT License](LICENSE).
-
-##  Author
-
-Your Name - [@yourhandle](https://twitter.com/yourhandle)
-
 ##  Acknowledgments
 
 - Design inspiration from modern real estate websites
 - Icons using emoji for simplicity and universal support
 - Color scheme inspired by nature and land themes
-
-##  Contact
-
-For questions or suggestions, please contact:
-- Email: info@landsale.com
-- Phone: +1 (234) 567-890
